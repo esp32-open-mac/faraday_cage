@@ -13,6 +13,6 @@ The output files are also included here, `*.stl` and `*.3mf`. The `handle` subfo
 - tapered caps with hole for fiber optic cable to copper `copper_pipe_cap.scad`
 - drill tools to easily mark hole locations for drilling `drill_tools.scad`
 
-All files I made myself, are licensed under public domain. You can do whatever you want with them.
+All files I made myself, are dual-licensed under the Unlicense and 0BSD; it's public domain, you can do whatever you want with them. See LICENSE for more details.
 
 If you have any questions, don't hesitate to open a GitHub issue.
